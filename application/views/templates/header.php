@@ -71,17 +71,18 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="<?php echo base_url(); ?>">Savory<em>.</em></a></div>
+					<div id="gtco-logo"><a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/images/logo.png" alt="Image" height="50px" width="52px"></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li><a href="<?php echo base_url(); ?>menu">Menu</a></li>
+						<li><a href="<?php echo base_url(); ?>">Home</a></li>
+						<li><a href="<?php echo base_url(); ?>menu">Rooms</a></li>
 						<li class="has-dropdown">
 							<a href="<?php echo base_url(); ?>services">Services</a>
 							<ul class="dropdown">
-								<li><a href="#">Food Catering</a></li>
-								<li><a href="#">Wedding Celebration</a></li>
-								<li><a href="#">Birthday's Celebration</a></li>
+								<li><a href="#">Holiday Package</a></li>
+								<li><a href="#">Facilities</a></li>
+								<li><a href="#">Activities</a></li>
 							</ul>
 						</li>
 						<li><a href="<?php echo base_url(); ?>contact">Contact</a></li>

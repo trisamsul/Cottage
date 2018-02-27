@@ -4,16 +4,13 @@
 		<div class="gtco-container">
 			<div class="row row-pb-md">
 
-				
-
-				
 				<div class="col-md-12 text-center">
 					<div class="gtco-widget">
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> info@GetTemplates.co</a></li>
-							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
+							<li><a href="#"><i class="icon-phone"></i> 0822-4235-4964</a></li>
+							<li><a href="#"><i class="icon-mail2"></i> newcottageasri@gmail.com</a></li>
+							<li><a href="#"><i class="icon-chat"></i>0822-4235-4964</a></li>
 						</ul>
 					</div>
 					<div class="gtco-widget">

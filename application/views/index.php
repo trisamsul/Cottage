@@ -1,6 +1,6 @@
 
-	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(<?php echo base_url(); ?>assets/images/img_bg_1.jpg)" data-stellar-background-ratio="0.5">
-		<div class="overlay"></div>
+	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(<?php echo base_url(); ?>assets/images/beach-2.jpg)" data-stellar-background-ratio="0.5">
+		<!--<div class="overlay"></div>-->
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-12 col-md-offset-0 text-left">
@@ -8,8 +8,8 @@
 
 					<div class="row row-mt-15em">
 						<div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
-							<span class="intro-text-small">Hand-crafted by <a href="http://gettemplates.co" target="_blank">GetTemplates.co</a></span>
-							<h1 class="cursive-font">All in good taste!</h1>	
+							<span class="intro-text-small"><a href="url(<?php echo base_url(); ?>" target="_blank">New Cottage Asri</a></span>
+							<h1 class="cursive-font">The Beauty of Karimunjawa Island</h1>	
 						</div>
 						<div class="col-md-4 col-md-push-1 animate-box" data-animate-effect="fadeInRight">
 							<div class="form-wrap">
@@ -72,46 +72,46 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2 class="cursive-font primary-color">Popular Dishes</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2 class="cursive-font primary-color">Rooms</h2>
+					<p></p>
 				</div>
 			</div>
 			<div class="row">
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url(); ?>assets/images/img_1.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url(); ?>assets/images/img_1.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Fresh Mushrooms</h2>
+							<h2>Bungalow (Land room)</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$19.15</span></p>
 						</div>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url(); ?>assets/images/img_2.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url(); ?>assets/images/img_2.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Cheese and Garlic Toast</h2>
+							<h2>Floating Rooms</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$20.99</span></p>
 						</div>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url(); ?>assets/images/img_3.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url(); ?>assets/images/img_3.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Grilled Chiken Salad</h2>
+							<h2>Superior Double Room </h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$8.99</span></p>
 
@@ -121,13 +121,13 @@
 
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url(); ?>assets/images/img_4.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url(); ?>assets/images/img_4.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Organic Egg</h2>
+							<h2>Superior Twin Room</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$12.99</span></p>
 						</div>
@@ -135,13 +135,13 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url(); ?>assets/images/img_5.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url(); ?>assets/images/img_5.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Tomato Soup with Chicken</h2>
+							<h2>Standard Double Room </h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$23.10</span></p>
 						</div>
@@ -149,13 +149,13 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url(); ?>assets/images/img_6.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url(); ?>assets/images/img_6.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url(); ?>assets/images/beach-house-1.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Salad with Crispy Chicken</h2>
+							<h2>Standard Twin Room</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$5.59</span></p>
 						</div>
@@ -221,72 +221,32 @@
 		</div>
 	</div>
 
-	<div id="gtco-counter" class="gtco-section">
+	<div id="gtco-counter" class="gtco-section" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(<?php echo base_url(); ?>assets/images/sand-1.jpg)" data-stellar-background-ratio="0.5">
 		<div class="gtco-container">
 
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2 class="cursive-font primary-color">Fun Facts</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2 class="cursive-font primary-color">New Cottage Asri</h2>
+					<h3 class="cursive-font primary-color">The Beauty of Karimunjawa Island </h3>
 				</div>
 			</div>
 
 			<div class="row">
-				
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="5" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Avg. Rating</span>
+					<p>Karimunjawa, one of hidden islands in Java, Indonesia. It is a Marine National Park with 27 tropical islands. It homes to coral reefs, mangroves, coastal forests and nearly 400 species of marine fauna. Karimunjawa Islands are quite isolated and untouched. Thus, is ideal for travelers who want run from the hustle bustle of the city, backpackers who love adventure with modest budget, and also great option for a honeymoon.
 
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="43" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Food Types</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="32" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Chef Cook</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="1985" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Year Started</span>
-
-					</div>
-				</div>
-					
+</p>
 			</div>
 		</div>
 	</div>
-
-	
 
 	<div id="gtco-subscribe">
 		<div class="gtco-container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2 class="cursive-font">Subscribe</h2>
-					<p>Be the first to know about the new templates.</p>
-				</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2">
-					<form class="form-inline">
-						<div class="col-md-6 col-sm-6">
-							<div class="form-group">
-								<label for="email" class="sr-only">Email</label>
-								<input type="email" class="form-control" id="email" placeholder="Your Email">
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<button type="submit" class="btn btn-default btn-block">Subscribe</button>
-						</div>
-					</form>
+					<h2 class="cursive-font">What Our Guest Says</h2>
+					<br/><br/>
+					<p>“The best place to come to rest and feel connected with nature. Simple but all you need and clean!” – A ( Belanda)
+</p>
 				</div>
 			</div>
 		</div>

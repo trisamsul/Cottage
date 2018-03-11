@@ -17,37 +17,37 @@
 									
 									<div class="tab-content">
 										<div class="tab-content-inner active" data-content="signup">
-											<h3 class="cursive-font">Table Reservation</h3>
-											<form action="#">
+											<h3 class="cursive-font"><center>Pemesanan</center></h3>
+											<?php echo form_open_multipart('Booking/book'); ?>
 												<div class="row form-group">
 													<div class="col-md-12">
-														<label for="activities">Persons</label>
-														<select name="#" id="activities" class="form-control">
-															<option value="">Persons</option>
-															<option value="">1</option>
-															<option value="">2</option>
-															<option value="">3</option>
-															<option value="">4</option>
-															<option value="">5+</option>
+														<label for="activities">Jumlah Tamu</label>
+														<select name="jml" id="activities" class="form-control">
+															<!-- <option class="custom-option" disabled selected value="">Persons</option> -->
+															<option class="custom-option" value="1">1</option>
+															<option class="custom-option" value="2">2</option>
+															<option class="custom-option" value="3">3</option>
+															<option class="custom-option" value="4">4</option>
+															<option class="custom-option" value="5">5</option>
 														</select>
 													</div>
 												</div>
 												<div class="row form-group">
 													<div class="col-md-12">
-														<label for="date-start">Date</label>
-														<input type="text" id="date" class="form-control">
+														<label for="date-start">Tanggal Check-in</label>
+														<input type="text" id="date-in" class="form-control" name="in">
 													</div>
 												</div>
 												<div class="row form-group">
 													<div class="col-md-12">
-														<label for="date-start">Time</label>
-														<input type="text" id="time" class="form-control">
+														<label for="date-start">Tanggal Check-out</label>
+														<input type="text" id="date-out" class="form-control" name="out">
 													</div>
 												</div>
 
 												<div class="row form-group">
 													<div class="col-md-12">
-														<input type="submit" class="btn btn-primary btn-block" value="Reserve Now">
+														<input type="submit" class="btn btn-primary btn-block" value="Pesan Sekarang">
 													</div>
 												</div>
 											</form>	
@@ -221,7 +221,7 @@
 		</div>
 	</div>
 
-	<div id="gtco-counter" class="gtco-section" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(<?php echo base_url(); ?>assets/images/sand-1.jpg)" data-stellar-background-ratio="0.5">
+	<div id="gtco-counter" class="gtco-section" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(<?php echo base_url(); ?>assets/images/sand-2.jpg)" data-stellar-background-ratio="0.5">
 		<div class="gtco-container">
 
 			<div class="row">
@@ -232,9 +232,7 @@
 			</div>
 
 			<div class="row">
-					<p>Karimunjawa, one of hidden islands in Java, Indonesia. It is a Marine National Park with 27 tropical islands. It homes to coral reefs, mangroves, coastal forests and nearly 400 species of marine fauna. Karimunjawa Islands are quite isolated and untouched. Thus, is ideal for travelers who want run from the hustle bustle of the city, backpackers who love adventure with modest budget, and also great option for a honeymoon.
-
-</p>
+				<p style="color: #fff;">Karimunjawa, one of hidden islands in Java, Indonesia. It is a Marine National Park with 27 tropical islands. It homes to coral reefs, mangroves, coastal forests and nearly 400 species of marine fauna. Karimunjawa Islands are quite isolated and untouched. Thus, is ideal for travelers who want run from the hustle bustle of the city, backpackers who love adventure with modest budget, and also great option for a honeymoon.</p>
 			</div>
 		</div>
 	</div>

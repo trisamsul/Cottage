@@ -295,9 +295,12 @@
 
 	var dateTimeForm = function() {
 		// $('#date-start').datepicker();
-		$('#date').datetimepicker({
-         format: 'DD/MM/YYYY'
-     	});
+		$('#date-in').datetimepicker({
+			 format: 'DD/MM/YYYY'
+		});
+		$('#date-out').datetimepicker({
+			format: 'DD/MM/YYYY'
+		});
 		$('#time').datetimepicker({
 			format: 'LT'	
 		});

@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #gtco-header .mt-text {
-  margin-top: 7em;
+  margin-top: 0em;
   margin-bottom: 3em;
 }
 @media screen and (max-width: 768px) {
@@ -1955,6 +1955,12 @@ form label {
   .fh5co-faq-list li h2 {
     font-size: 26px;
   }
+}
+
+.custom-option{
+  padding-top: 10px;
+  background-color: rgba(214, 214, 214, 0.329);
+  color: rgba(14, 14, 14, 0.933);
 }
 
 /*# sourceMappingURL=style.css.map */
